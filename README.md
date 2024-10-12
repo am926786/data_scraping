@@ -1,5 +1,5 @@
 # data_scraping
-# Setup Instructions
+
 # Dependencies
 To run the code, you need to have the following Python packages installed:
 
