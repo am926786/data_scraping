@@ -1,5 +1,5 @@
 # data_scraping
-
+This project involves scraping data from the Reddit subreddit "wallstreetbets" using the PRAW (Python Reddit API Wrapper) library. The data is then cleaned and saved into a CSV file for further analysis.
 # Dependencies
 To run the code, you need to have the following Python packages installed:
 
