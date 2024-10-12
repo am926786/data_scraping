@@ -9,7 +9,7 @@ pip install tweepy pandas praw
 # API Credentials
 To access Reddit's API, you need to have a Reddit account and create an application to obtain the following credentials:
 
-client_id, client_secret. user_agent.
+client_id, client_secret, user_agent.
 These credentials should be inserted into the code where the PRAW Reddit instance is created.
 
 # Running the Code
