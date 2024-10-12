@@ -3,19 +3,13 @@ This project involves scraping data from the Reddit subreddit "wallstreetbets" u
 # Dependencies
 To run the code, you need to have the following Python packages installed:
 
-tweepy
-pandas
-praw
-re (part of Python's standard library)
-You can install the required packages using pip:
+tweepy, pandas, praw, re (part of Python's standard library). You can install the required packages using pip:
 
 pip install tweepy pandas praw
 # API Credentials
 To access Reddit's API, you need to have a Reddit account and create an application to obtain the following credentials:
 
-client_id
-client_secret
-user_agent
+client_id, client_secret. user_agent.
 These credentials should be inserted into the code where the PRAW Reddit instance is created.
 
 # Running the Code
